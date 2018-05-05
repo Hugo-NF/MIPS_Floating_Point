@@ -1,4 +1,4 @@
-# Programa utilizando as instruções nativas do MIPS
+# Programa utilizando a aritmética por software
 .data
 		# Posições de memória para as variáveis
 A:		.float  0.0		# Primeiro Operando ($f1)
@@ -6,7 +6,7 @@ B:		.float  0.0		# Segundo Operando ($f2)
 C:		.float  0.0		# Resultado ($f12)
 
 OPT:		.word	0		# Codigo de operacao ($s0)
-
+		# Além desses, os registradores de $t0 a $t9 serão utilizados no programa
 
 		# Strings para exibição no console
 
@@ -103,7 +103,7 @@ multu	$t1, $t3			# Multiplicação de inteiros das mantissas
 mfhi	$t2				# Move o resultado do produto para $t2 e $t3
 mflo	$t3			
 
-srl 	$t7, $t2, 15			# Recupera o bit 48 do produto de 64 bits (bit 16 do HI)
+srl 	$t7, $t2, 15			# Recupera os bits 63 a 48 do produto de 64 bits (16 bits mais significativos do HI)
 bgtz 	$t7, norm			# Se não for 0, normaliza o numero
 j 	assemble_FP			# Operacao concluída, remontar ponto flutuante
 
