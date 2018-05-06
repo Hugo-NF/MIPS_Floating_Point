@@ -1,0 +1,301 @@
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0
+
+Type Second Operand:
+>> 1
+
+Result: 1.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 45
+
+Type Second Operand:
+>> 0
+
+Result: 45.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0.45
+
+Type Second Operand:
+>> 0
+
+Result: 0.45
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0
+
+Type Second Operand:
+>> 0.0000125
+
+Result: 1.25E-5
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 5
+
+Type Second Operand:
+>> 12
+
+Result: 17.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -9
+
+Type Second Operand:
+>> -3
+
+Result: -12.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 81
+
+Type Second Operand:
+>> -9
+
+Result: 72.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -9
+
+Type Second Operand:
+>> 18
+
+Result: 9.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0.5
+
+Type Second Operand:
+>> 0.75
+
+Result: 1.25
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -0.125
+
+Type Second Operand:
+>> -0.5
+
+Result: -0.625
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0.5
+
+Type Second Operand:
+>> -0.5
+
+Result: 0.0
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 5
+
+Type Second Operand:
+>> 0.25
+
+Result: 5.25
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -2
+
+Type Second Operand:
+>> -1.5
+
+Result: -3.5
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 4.5
+
+Type Second Operand:
+>> 2
+
+Result: 6.5
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -0.95
+
+Type Second Operand:
+>> -2
+
+Result: -2.95
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -0.25
+
+Type Second Operand:
+>> 5
+
+Result: 4.75
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 8
+
+Type Second Operand:
+>> -0.25
+
+Result: 7.75
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -5
+
+Type Second Operand:
+>> 0.205
+
+Result: -4.795
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> -12.5
+
+Type Second Operand:
+>> 2
+
+Result: -10.5
+Repeat? (0. Yes / 1. No)
+>> 0
+
+Choose the operation (Single Precision):
+0. ADD
+1. MULT
+>> 0
+
+Type First Operand:
+>> 0.258
+
+Type Second Operand:
+>> -1
+
+Result: -0.742
+Repeat? (0. Yes / 1. No)
+>> 1
+
+-- program is finished running --
